@@ -13,13 +13,17 @@ Sandbox Account Credentials:
 **E-wallet Test Account  **
 
 Username: 09193890579
+
 Password: Password@1
+
 OTP: 123456
 
 
 **TEST BANK ACCOUNT MAYA**
 
 Account Number: 4012001037167778
+
 Expiry Date: 12/2027
+
 CSC/CVV : 990
 
