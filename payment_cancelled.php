@@ -8,6 +8,10 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+    <br>
+    <br>
+    <br>
+    <br>
     <div class="container text-center mt-5">
         <div class="row justify-content-center">
             <div class="col-sm-12 col-md-6">
@@ -25,6 +29,8 @@
                                 echo "<p class='text-danger'>Booking ID not provided.</p>";
                             }
                         ?>
+                        <!-- Add Home button to redirect to index.php -->
+                        <a href="index.php" class="btn btn-primary mt-4">Home</a>
                     </div>
                 </div>
             </div>

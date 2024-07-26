@@ -25,6 +25,8 @@
                                 echo "<p class='text-danger'>Booking ID not provided.</p>";
                             }
                         ?>
+                        <!-- Add Home button to redirect to index.php -->
+                        <a href="index.php" class="btn btn-primary mt-4">Home</a>
                     </div>
                 </div>
             </div>
